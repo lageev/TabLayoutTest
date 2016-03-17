@@ -4,10 +4,10 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.geekv.tablayout01.Find_hotCollectionFragment;
-import com.geekv.tablayout01.Find_hotFragment;
-import com.geekv.tablayout01.Find_hotMonthFragment;
-import com.geekv.tablayout01.Find_hotRecommendFragment;
+import com.geekv.tablayout01.ui.Find_hotCollectionFragment;
+import com.geekv.tablayout01.ui.Find_hotFragment;
+import com.geekv.tablayout01.ui.Find_hotMonthFragment;
+import com.geekv.tablayout01.ui.Find_hotRecommendFragment;
 
 import java.util.ArrayList;
 import java.util.List;

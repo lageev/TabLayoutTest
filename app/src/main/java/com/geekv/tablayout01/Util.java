@@ -20,6 +20,12 @@ public class Util {
         list.add(news);
         list.add(news);
         list.add(news);
+        list.add(news);
+        list.add(news);
+        list.add(news);
+        list.add(news);
+        list.add(news);
+        list.add(news);
         return list;
     }
 }

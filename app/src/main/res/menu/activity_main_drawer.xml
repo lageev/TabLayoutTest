@@ -12,8 +12,8 @@
             android:icon="@android:drawable/ic_menu_slideshow"
             android:title="我的收藏" />
         <item android:id="@+id/nav_manage"
-            android:icon="@android:drawable/ic_menu_manage"
-            android:title="设置" />
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="评分" />
     </group>
 
     <item android:title="其他">
@@ -25,8 +25,8 @@
                 android:icon="@android:drawable/ic_menu_send"
                 android:title="反馈" />
             <item android:id="@+id/nav_about"
-                android:icon="@android:drawable/ic_menu_send"
-                android:title="关于" />
+                android:icon="@android:drawable/ic_menu_more"
+                android:title="设置" />
         </menu>
     </item>
 
